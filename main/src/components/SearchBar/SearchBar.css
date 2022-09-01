@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Mouse+Memoirs");
+
+.container{
+  align-items: normal;
+}
+
+#search {
+ border: solid 1px rgba(28,29,28,0.418);
+ border-radius: 23px;
+ font-family: "Mouse Memoirs";
+ text-indent: 10px;
+ font-size: 24px;
+ height: 36px;
+ width: 300px;
+}
+
+#button {
+  background-color: rgb(132, 211, 235);
+  border: 1px solid black;
+  border-radius: 15px;
+  font-family: "Mouse Memoirs";
+  font-size: 18px;
+  font-weight: 700;
+  text-shadow: 0 0 6px rgb(6, 6, 6);
+  padding: 6px 8px;
+  color: white;
+  margin-left: 8px;
+  margin-right: 5px;
+}
+
+
