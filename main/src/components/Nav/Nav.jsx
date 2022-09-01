@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../img/logoClima.png'
+import logo from '../../assets/logoClima.png'
 import SearchBar from '../SearchBar/SearchBar.jsx';
 import './Nav.css';
 import { Link } from 'react-router-dom';
